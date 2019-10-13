@@ -1,3 +1,9 @@
-# hello-word
-first project
+//# hello-word
+//first project
+
+#include <stdio.h>
+
+
+
+
 
